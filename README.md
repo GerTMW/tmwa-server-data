@@ -10,7 +10,6 @@
 
 ##Es folgt die Offizielle Readme.md von [www.themanaworld.org](https://www.themanaworld.org/)
 
-![The Mana World logo](share/tmwa/TheManaWorldLogo.png)
 
 This is TMWA, an MMORPG server used by The Mana World that uses a protocol
 based on one of many projects that foolishly chose the name "Athena".
