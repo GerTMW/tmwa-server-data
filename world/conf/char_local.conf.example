@@ -1,0 +1,18 @@
+// Athena Character local configuration file.
+
+// Server Communication username and password.
+userid: s1
+passwd: p1
+
+// Server name, no more than 19 characters
+server_name: The Mana World
+
+// Login Server IP
+login_ip:127.0.0.1
+// Login Server Port
+login_port: 6901
+
+// Character Server IP
+char_ip:127.0.0.1
+// Character Server Port
+char_port: 6122
